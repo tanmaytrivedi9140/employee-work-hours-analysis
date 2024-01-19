@@ -8,7 +8,7 @@ Before running the program, ensure you have the following dependencies installed
 - This program analyzes employee work hours based on an Excel file containing time and shift information.
 
 - 
-   1. Clone the repository:
+ Clone the repository:
    git clone https://github.com/tanmaytrivedi8285/employee-work-hours-analysis.git
 - Run the command to analyze employee work hours:
       node analyze.js
