@@ -5,18 +5,19 @@ Before running the program, ensure you have the following dependencies installed
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 ### Table of Contents
 
-- [Overview](This program analyzes employee work hours based on an Excel file containing time and shift information.
-)
-- [Installation](
+- This program analyzes employee work hours based on an Excel file containing time and shift information.
+
+- 
    1. Clone the repository:
-   git clone https://github.com/tanmaytrivedi8285/employee-work-hours-analysis.git)
-- [Usage](Run the command to analyze employee work hours:
+   git clone https://github.com/tanmaytrivedi8285/employee-work-hours-analysis.git
+- Run the command to analyze employee work hours:
       node analyze.js
-)
 
-- [Output](
 
-#  1. Employee That Worked For Consecutive Seven Days:
+
+
+# Output
+###  1. Employee That Worked For Consecutive Seven Days:
        [
   { name_of_employee: 'REsaXiaWE' },
   { name_of_employee: 'XAis' },
@@ -120,7 +121,7 @@ Before running the program, ensure you have the following dependencies installed
   { name_of_employee: 'KeviW FaGiaW' },
   ... 30 more items
 ]
-#  2. Employee That Worked Less Than 10 Hours and More than 1 Hour
+###  2. Employee That Worked Less Than 10 Hours and More than 1 Hour
 [
   { name_of_employee: 'CaMaXaWE' },
   { name_of_employee: 'CeghaW' },
@@ -143,12 +144,12 @@ Before running the program, ensure you have the following dependencies installed
   { name_of_employee: 'SaWchez' },
   { name_of_employee: 'ArWAXfE' }
 ]
-# 3 .Employee That Worked More Than 14 Hours in a Single Shift
+### 3 .Employee That Worked More Than 14 Hours in a Single Shift
 [
   { name_of_employee: 'DeXgadiXXE REdarMe' },
   { name_of_employee: 'ChrisMiaW S' }
 ]
     
 
-)
+
 
